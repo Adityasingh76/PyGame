@@ -1,1 +1,1 @@
-Pong game with AI in pygame python.
+Pong game with AI as well as PVP in pygame python.
